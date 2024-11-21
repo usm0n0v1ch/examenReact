@@ -1,0 +1,20 @@
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    border:3px solid #2196f3;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s;
+    width: 25px;
+    height: 25px;
+}
+
+.container:hover{
+    background: #2196f3;
+    color: white;
+}

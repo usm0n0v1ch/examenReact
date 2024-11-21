@@ -1,0 +1,17 @@
+
+
+
+.authBtn{
+    display: flex;
+    gap:5px;
+    align-items: center;
+    padding: 5px 10px 5px 10px;
+    background: #2196f3;
+    color : white;
+    border: none;
+    transition: all 0.5s;
+}
+.authBtn:hover{
+    transform: scale(1.05);
+    cursor:pointer;
+}

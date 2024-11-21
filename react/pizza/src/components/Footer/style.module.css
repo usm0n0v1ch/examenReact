@@ -1,0 +1,26 @@
+
+
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 100px 50px 100px;
+}
+.left{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+.right{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    font-size: 20px;    
+    cursor: pointer;
+}

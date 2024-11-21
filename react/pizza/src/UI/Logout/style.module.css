@@ -1,0 +1,15 @@
+
+
+
+.container{
+    display: flex;
+    padding: 5px 10px 5px 10px;
+    color: white;
+    background-color: #2196f3;
+    width: fit-content;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.container:hover{
+    transform: scale(1.05);
+}
